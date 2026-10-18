@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مُوحِّد الصور</string>
+    <string name="title">مُوحِّد الصور</string>
+    <string name="subtitle">حسّن صورك تلقائيًا، وراجع النتيجة واضبطها يدويًا قبل الحفظ.</string>
+    <string name="preview_title">معاينة قبل وبعد</string>
+    <string name="preview_hint">المعاينة بتعرض الصورة الحالية أثناء المعالجة.</string>
+    <string name="preview_original">الصورة الأصلية</string>
+    <string name="preview_result">النتيجة المحسّنة</string>
+    <string name="manual_title">ضبط يدوي</string>
+    <string name="manual_hint">حرّك المؤشرات لتطبيق التعديلات على الصور اللي هتتعالج.</string>
+    <string name="manual_brightness">السطوع: %1$d</string>
+    <string name="manual_contrast">التباين: %1$d%%</string>
+    <string name="pick">اختيار صور</string>
+    <string name="start">بدء المعالجة والحفظ</string>
+    <string name="count_none">مفيش صور مختارة لسه</string>
+    <string name="count_fmt">تم اختيار %1$d صورة</string>
+    <string name="status_ready">جاهز لاختيار الصور</string>
+    <string name="status_analyzing_fmt">تحليل الصورة %1$d من %2$d</string>
+    <string name="status_processing_kind_fmt">معالجة الصورة %1$d من %2$d — %3$s</string>
+    <string name="kind_document">مستند</string>
+    <string name="kind_poster">بوستر</string>
+    <string name="kind_interior">مكان داخلي</string>
+    <string name="kind_exterior">مكان خارجي</string>
+    <string name="kind_general">صورة عامة</string>
+    <string name="status_done_fmt">اكتملت المعالجة: %1$d نجحت، %2$d فشلت. مكان الحفظ: Pictures/PhotoUnifier</string>
+    <string name="status_error_fmt">تفاصيل آخر خطأ: %1$s</string>
+    <string name="opencv_failed">تعذر تشغيل مكتبة OpenCV على الجهاز</string>
+    <string name="output_hint">الصور الأصلية بتفضل زي ما هي. النسخ المحسّنة بتتحفظ في Pictures/PhotoUnifier.</string>
+</resources>
